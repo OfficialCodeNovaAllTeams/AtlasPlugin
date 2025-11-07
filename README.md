@@ -20,6 +20,3 @@ Para utilizar AtlasPlugin necesitas una **contraseña de activación**.
 
 ---
 
-## ⚙️ Instalación
-
-contraseña de activación. Si aún no la tienes, revisa tu bandeja de entrada 📬 — te hemos enviado un correo con tus credenciales. ¿No lo encuentras? Verifica también tu carpeta de spam o promociones.
